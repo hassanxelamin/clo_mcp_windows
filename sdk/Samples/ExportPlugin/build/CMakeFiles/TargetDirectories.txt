@@ -1,0 +1,5 @@
+C:/Users/hassa/dev/clo_mcp/sdk/Samples/ExportPlugin/build/CMakeFiles/ExportPlugin.dir
+C:/Users/hassa/dev/clo_mcp/sdk/Samples/ExportPlugin/build/CMakeFiles/edit_cache.dir
+C:/Users/hassa/dev/clo_mcp/sdk/Samples/ExportPlugin/build/CMakeFiles/rebuild_cache.dir
+C:/Users/hassa/dev/clo_mcp/sdk/Samples/ExportPlugin/build/CMakeFiles/ExportPlugin_autogen_timestamp_deps.dir
+C:/Users/hassa/dev/clo_mcp/sdk/Samples/ExportPlugin/build/CMakeFiles/ExportPlugin_autogen.dir
